@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote name="mbilloo" fetch="ssh://git@github.com"/>
+
+	<project name="mbilloo/Child1.git" remote="mbilloo" path="Child1" revision="test"/>
+	<project name="mbilloo/Child2.git" remote="mbilloo" path="Child2" revision="5d863365fbfff0933d7b2f4217abca1b2428a431"/>
+</manifest>
